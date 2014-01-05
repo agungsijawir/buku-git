@@ -36,3 +36,4 @@ Caranya gampang,
 4. Commit dan push ke repository Anda sendiri
 5. Kirim pull request ke saya supaya bisa saya merge ke repository saya
 
+--- EDITED by agung
